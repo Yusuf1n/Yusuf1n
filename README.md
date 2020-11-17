@@ -1,12 +1,15 @@
 <h1 align="center">Yusuf Naheem</h1>
 
-<a href=https://www.linkedin.com/in/yusuf-naheem-97a102171/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="yusufnaheem" height="20" width="20" /></a>
+<section align="center">
+<a href=https://www.linkedin.com/in/yusuf-naheem-97a102171/ target="blank"><img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="yusufnaheem" height="20" width="20" /></a></section>
 
 <p align="center">
 - 🔭 I’m currently working on my responsive portfolio
-
+</p>
+<p align="center">
 - 🌱 I’m currently learning full stack development
-
+</p>
+<p align="center">
 - 📫 How to reach me yusufnaheem1@gmail.com
 </p>
 
