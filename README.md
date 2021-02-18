@@ -1,24 +1,20 @@
-<h1 align="center">Yusuf Naheem</h1>
-<h3 align="center">Highly motivated Junior Software Developer</h3>
+<h1>Hi there👋, I'm Yusuf Naheem</h1>
+<h3>Junior Software Developer</h3>
 
-<p align="center">
+<p>
 <a href=https://www.linkedin.com/in/yusuf-naheem-97a102171/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="yusufnaheem" height="20" width="20"/></a>
 </p>
 
-<p align="center">
-- 🔭 I’m currently working on my responsive portfolio
-</p>
-<p align="center">
-- 🌱 I’m currently learning full stack development & open source 
-</p>
-<p align="center">
-- 📫 How to reach me: yusufnaheem1@gmail.com
-</p>
+<p> - 🔭 I’m currently working on my personal portfolio </p>
+<p> - 🌱 I’m currently learning full stack development </p>
+<p> - 👯 I’m looking to collaborate with other developers </p>
+<p> - 🥅 2021 Goals: Contribute more to open source projects <p>
+<p> - 📫 How to reach me: yusufnaheem1@gmail.com </p>
 
 <br>
 
 <!-- GitHub stats -->
-<h3 align="center">⚡ My GitHub Statistics</h3>
+<h3>⚡ My GitHub Statistics</h3>
 
 <p>
 <!-- GitHub Stats -->
