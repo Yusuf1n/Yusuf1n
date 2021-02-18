@@ -8,7 +8,7 @@
 <p> - 🔭 I’m currently working on my personal portfolio </p>
 <p> - 🌱 I’m currently learning full stack development </p>
 <p> - 👯 I’m looking to collaborate with other developers </p>
-<p> - 🥅 2021 Goals: Contribute more to open source projects <p>
+<p> - 🥅 2021 Goals: Contribute to more open source projects <p>
 <p> - 📫 How to reach me: yusufnaheem1@gmail.com </p>
 
 <br>
